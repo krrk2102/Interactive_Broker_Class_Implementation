@@ -1,0 +1,9 @@
+This is class implementation by Shangqi Wu.
+
+Each file are named by their corresponding classes, and *.h files contain class definitions while *.cpp files contains codes implementing functionalities. The file main.cpp contains driver code to call and test classes implemented.
+
+To compile the program, Linux/Unix/Mac users could take advantage of make file provided. Windows users will have to add files into Visual Studio projects to compile. 
+
+The program will run a pre-set test case hard-coded in main.cpp. All codes are well-commented so that please refer to both comments and screen output to verify correctness of program.
+
+A PDF version is provided in case of using Windows default notepad.
