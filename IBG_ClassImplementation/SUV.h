@@ -24,7 +24,7 @@ private:
 	// The third row seat capacity of a SUV,
 	// if it is set to 0, it indicates that the SUV
 	// doesn't have the third row.
-	int additionalSeatCapacity;
+	unsigned int additionalSeatCapacity;
 	
 public:
 	
