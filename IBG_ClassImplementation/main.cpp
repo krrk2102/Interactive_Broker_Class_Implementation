@@ -130,7 +130,7 @@ void runTestCase() {
 		}
 		
 		// Total passenger capacity information.
-		cout <<"\tTotal passenger Capacity of the vehicle is: ";
+		cout << "\tTotal passenger Capacity of the vehicle is: ";
 		cout << vehicle->getCapacity() << endl;
 		cout << endl;
 	}
