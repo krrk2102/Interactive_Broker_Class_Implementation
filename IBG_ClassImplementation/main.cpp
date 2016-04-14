@@ -99,7 +99,7 @@ void runTestCase() {
 				cout << "\tThis SUV is equipped with third row seats.";
 				cout << endl << "\tAdditional capacity: ";
 				cout << dynamic_cast<SUV*>(vehicle)->
-									getThirdRowCapacity() << endl;
+								getThirdRowCapacity() << endl;
 				
 			} else {
 				
